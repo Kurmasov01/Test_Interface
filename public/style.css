@@ -1,0 +1,159 @@
+.a {
+    background: #0094DE;
+}
+.table{
+    border-color: black;
+}
+.nav-tabs {
+    border-bottom: none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #008D1B;
+}
+.nav-item {
+    display: flex;   
+}
+.nav-link{
+    padding: 18px 45px 18px;
+    color: white;
+    
+}
+.nav-link:hover{
+    background-color: white;
+    color: #008D1B;
+}
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-color: white;  
+}
+.nav-tabs .nav-link {
+    
+    border-top-left-radius: 0%; 
+    border-top-right-radius: 0%; 
+
+}
+
+
+.breadcrumb-item.active {
+    color: #0094DE;
+    padding: 18px 5px;
+    margin-left: 10px;
+}
+button {
+    border: none;
+}
+h1 {
+    text-align: center;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #008D1B;
+    border-color: unset;
+    border-radius: 10;
+}
+.button1 {
+    text-decoration: none;
+    background-color: #008D1B;
+    color: white;
+    border-radius: 6px;
+    margin-top: 30px;
+    padding: 2px 30px 2px;
+    margin-bottom: 20px;
+}
+.button1:hover {
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: unset;
+}
+
+h5{
+    margin-top: 20px;
+}
+.AddGroup {
+    margin-top: 20px;
+}
+
+input {
+    border-color: #0094DE;
+    border-radius: 6px;
+    width: 45%;
+    margin-top: 20px;
+}
+input:focus {
+    outline: none;
+}
+
+.demo {
+    border-color: #0094DE;
+    border-radius: 6px;
+    width: 45%;
+}
+select {
+    border-color: #0094DE;
+    border-radius: 6px;
+    width: 45%;
+    padding: 2px;
+}
+select:focus {
+    outline: none;
+}
+
+.form-check .form-check-input {
+    float: none; 
+}
+
+.flex-column {
+    background-color: #0094DE;
+    width: 270px;
+    height: 100%;
+}
+.flex-column .nav-item .nav-link {
+    width: 270px;
+    padding: 5px 0px 5px;
+}
+.flex-column .nav-item .nav-link.active {
+    background-color: #008D1B;
+}
+.flex-column .nav-item .nav-link.active:hover {
+    color: white;
+}
+
+.flex-column .AddGroup {
+    background-color: #0094DE;
+    margin-left: unset;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#publish {
+    background-color: #0094DE;
+    margin-left: 10px;
+}
+#delete {
+    background-color: #AF0000;
+    margin-left: 10px;
+}
+#info {
+    margin-left: 150px;
+    margin-top: -190px;
+}
+#description {
+    padding: 20px;
+}
+
+h4 {
+    margin-top: 20px;
+}
+.form-check-input {
+    border: 2px solid #0094DE;
+}
+.answer .form-check-input {
+    margin: 26px 12px 0px;
+}
+a {
+    text-decoration: none;
+}
